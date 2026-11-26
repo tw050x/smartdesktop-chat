@@ -1,3 +1,8 @@
+> **This repository has moved.** Development continues in
+> [tw050x/smartsuite](https://github.com/tw050x/smartsuite), under
+> [`apps/smartdesktop`](https://github.com/tw050x/smartsuite/tree/master/apps/smartdesktop), with this repository's
+> history. This one is kept for its earlier releases and is no longer updated.
+
 # SmartDesktop
 
 The AI chat for [SmartDoc](https://github.com/tw050x/smartdoc) and
